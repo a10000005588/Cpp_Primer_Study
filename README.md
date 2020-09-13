@@ -22,8 +22,8 @@ https://hackmd.io/b593SfI6Tt-UAT6u1aZPWg#
 ### 快速入門
 
 * Chapter 1: 快速入門介紹
-  * 筆記
-  * 練習
+  * [筆記](https://github.com/a10000005588/Cpp_Primer_Study/blob/master/notes/ch01.md)
+  * [練習](https://github.com/a10000005588/Cpp_Primer_Study/blob/master/exercise/ch01.md)
 
 ### 基本要素
 
