@@ -28,8 +28,8 @@ https://hackmd.io/b593SfI6Tt-UAT6u1aZPWg#
 ### 基本要素
 
 * Chapter 2: 變數和基本型別
-  * 筆記
-  * 練習 
+  * [筆記](https://github.com/a10000005588/Cpp_Primer_Study/blob/master/notes/ch02.md)
+  * [練習](https://github.com/a10000005588/Cpp_Primer_Study/blob/master/exercise/ch02.md) 
 * Chapter 3: 字串、向量與陣列
-  * 筆記
-  * 練習 
+  * [筆記](https://github.com/a10000005588/Cpp_Primer_Study/blob/master/notes/ch03.md)
+  * 練習 (尚未完成)
